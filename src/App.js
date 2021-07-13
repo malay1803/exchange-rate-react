@@ -1,9 +1,13 @@
-import './App.css';
+import "./App.css";
+import Nav from "./components/Nav";
+import { Container } from "./components/Container.style";
 
 function App() {
   return (
     <div className="App">
-      hello world
+      <Container>
+        <Nav/>
+      </Container>
     </div>
   );
 }
