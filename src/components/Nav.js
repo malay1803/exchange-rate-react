@@ -13,9 +13,9 @@ const nav = () => {
       <BaseCurrContainerStyle>
         <p>BASE CURRENCY</p>
         <button disabled>
-          INR
+          USD
           <img
-            src="https://img.icons8.com/color/48/000000/india.png"
+            src="https://img.icons8.com/color/48/000000/usa.png"
             alt="indianFlag"
           />
         </button>
