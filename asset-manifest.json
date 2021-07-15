@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.25945c9c.chunk.css",
-    "main.js": "/static/js/main.b95ba293.chunk.js",
-    "main.js.map": "/static/js/main.b95ba293.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2817b57a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2817b57a.js.map",
-    "static/js/2.202ff86f.chunk.js": "/static/js/2.202ff86f.chunk.js",
-    "static/js/2.202ff86f.chunk.js.map": "/static/js/2.202ff86f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.25945c9c.chunk.css.map": "/static/css/main.25945c9c.chunk.css.map",
-    "static/js/2.202ff86f.chunk.js.LICENSE.txt": "/static/js/2.202ff86f.chunk.js.LICENSE.txt",
-    "static/media/currex.3d312941.png": "/static/media/currex.3d312941.png"
+    "main.css": "/exchange-rate-react/static/css/main.25945c9c.chunk.css",
+    "main.js": "/exchange-rate-react/static/js/main.b95ba293.chunk.js",
+    "main.js.map": "/exchange-rate-react/static/js/main.b95ba293.chunk.js.map",
+    "runtime-main.js": "/exchange-rate-react/static/js/runtime-main.e1ae62c7.js",
+    "runtime-main.js.map": "/exchange-rate-react/static/js/runtime-main.e1ae62c7.js.map",
+    "static/js/2.9ba89c9d.chunk.js": "/exchange-rate-react/static/js/2.9ba89c9d.chunk.js",
+    "static/js/2.9ba89c9d.chunk.js.map": "/exchange-rate-react/static/js/2.9ba89c9d.chunk.js.map",
+    "index.html": "/exchange-rate-react/index.html",
+    "static/css/main.25945c9c.chunk.css.map": "/exchange-rate-react/static/css/main.25945c9c.chunk.css.map",
+    "static/js/2.9ba89c9d.chunk.js.LICENSE.txt": "/exchange-rate-react/static/js/2.9ba89c9d.chunk.js.LICENSE.txt",
+    "static/media/currex.3d312941.png": "/exchange-rate-react/static/media/currex.3d312941.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2817b57a.js",
-    "static/js/2.202ff86f.chunk.js",
+    "static/js/runtime-main.e1ae62c7.js",
+    "static/js/2.9ba89c9d.chunk.js",
     "static/css/main.25945c9c.chunk.css",
     "static/js/main.b95ba293.chunk.js"
   ]
