@@ -12,3 +12,6 @@ A basic app used to return exchange rate, requires the user to select the curren
 I searched alot for a free exchange rate api and after scrolling and using different keywords, I stumbled upon this,
 Exhangerate: 
 https://exchangerate.host/
+
+##Website URL
+https://malay1803.github.io/exchange-rate-react/
