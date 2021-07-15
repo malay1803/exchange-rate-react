@@ -1,11 +1,11 @@
 # exchange-rate-react
 A basic app used to return exchange rate, requires the user to select the currencies and input the amount(made using hooks, styled components and exchangerate api).
 
-##Features
+## Features
 1. A simple app to get exchange rate.
 2. Responsive.
 
-##Drawbacks
+## Drawbacks
 1. Requires the user to type the amount to recieve the live rate.
 
 ##API used:
