@@ -13,5 +13,5 @@ I searched alot for a free exchange rate api and after scrolling and using diffe
 Exhangerate: 
 https://exchangerate.host/
 
-##Website URL
+## Website URL
 https://malay1803.github.io/exchange-rate-react/
