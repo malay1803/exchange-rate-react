@@ -4,7 +4,20 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background: #e63946;
+  background: #1d3557;
   font-family: 'Poppins', sans-serif;
+  font-size: 62.5%;
+  
+}
+
+@media screen and (max-width: 1200px){
+  *{
+    font-size: 56%;
+  }
+}
+@media screen and (max-width: 800px){
+  *{
+    font-size: 50%;
+  }
 }
 
